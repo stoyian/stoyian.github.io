@@ -1,12 +1,12 @@
 # Basic Information 
-title: Ilias Stogiannidsi
+title: Ilias Stogiannidis
 position: Machine Learning Engineer
 affiliation: helvia.ai and Athens University of Economics and Business
 email: username (at) gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
+keywords: Machine learning artificial intelligence Reinforcement Learning Natural Language Processing ML AI RL NLP
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://minimal-light-theme.yliu.me/
 
@@ -26,7 +26,7 @@ favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: false
+enable_footnote: true
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
@@ -34,7 +34,7 @@ auto_dark_mode: true
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
-font: "Sans Serif" # or "Sans Serif"
+font: "Ubuntu" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
@@ -54,4 +54,4 @@ exclude:
   - README_de.md
   - LICENSE
   - minimal-light.gemspec
-  - html_source_file/
+  # - html_source_file/

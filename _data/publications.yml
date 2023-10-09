@@ -25,11 +25,11 @@ main:
     authors: Ilias Stogiannidis, Stavros Vassos, Prodromos Malakasiotis, Ion Androutsopoulos
     conference_short: EMNLP
     conference: In Finding of the Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2023.
-    pdf: html_source_file\assets\files\ocats.pdf
+    pdf: ./assets/files/ocats.pdf
     # code: https://github.com/stoyian/OCaTS
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Early Accept
-    image: ./assets/img/ocats.png
+    image: ./assets/img/architecture_new.png
   
   - title: "Breaking the Bank with ChatGPT: Few-Shot Text Classification for Finance"
     authors: Lefteris Loukas, Ilias Stogiannidis, Stavros Vassos, Prodromos Malakasiotis
@@ -41,7 +41,7 @@ main:
     notes: Oral Pressentation
     image: ./assets/img/BRBANK.png
   
-  - title: "Cache me if you Can: an Online Cost-aware Teacher-Student framework to Reduce the Calls to Large Language Models"
+  - title: "Making LLMs Worth Every Penny: Resource-Limited Text Classification in Finance"
     authors: Lefteris Loukas, Ilias Stogiannidis, Stavros Vassos, Prodromos Malakasiotis
     conference_short: IJCAI
     conference: In Proceedings of the 4th ACM International Conference on AI in Finance <strong>(ICAIF)</strong>,New York, NY, USA, 2023.
