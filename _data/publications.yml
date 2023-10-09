@@ -23,7 +23,7 @@ main:
 
   - title: "Cache me if you Can: an Online Cost-aware Teacher-Student framework to Reduce the Calls to Large Language Models"
     authors: Ilias Stogiannidis, Stavros Vassos, Prodromos Malakasiotis, Ion Androutsopoulos
-    conference_short: EMNLP
+    conference_short: EMNLP2023
     conference: In Finding of the Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2023.
     pdf: ./assets/files/ocats.pdf
     # code: https://github.com/stoyian/OCaTS
@@ -33,8 +33,8 @@ main:
   
   - title: "Breaking the Bank with ChatGPT: Few-Shot Text Classification for Finance"
     authors: Lefteris Loukas, Ilias Stogiannidis, Stavros Vassos, Prodromos Malakasiotis
-    conference_short: FINNLP
-    conference: In Finding of the Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2023.
+    conference_short: FINNLP2023
+    conference:  In Proceedings of the Fifth Workshop on Financial Technology and Natural Language Processing and the Second Multimodal AI For Financial Forecasting of the International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, Macao, China, 2023.
     pdf: https://aclanthology.org/2023.finnlp-1.7.pdf
     # code: https://github.com/stoyian/OCaTS
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -43,7 +43,7 @@ main:
   
   - title: "Making LLMs Worth Every Penny: Resource-Limited Text Classification in Finance"
     authors: Lefteris Loukas, Ilias Stogiannidis, Stavros Vassos, Prodromos Malakasiotis
-    conference_short: IJCAI
+    conference_short: IJCAI2023
     conference: In Proceedings of the 4th ACM International Conference on AI in Finance <strong>(ICAIF)</strong>,New York, NY, USA, 2023.
     pdf: ./assets/files/LLMPenny.pdf
     # code: https://github.com/stoyian/OCaTS
