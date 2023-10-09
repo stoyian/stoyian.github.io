@@ -6,15 +6,14 @@ layout: homepage
 
 I am a postgraduate student at Athens University of Economics and
 Business and also an active member of the <a href="http://nlp.cs.aueb.gr/" target="_blank"> Natural Language Processing Group </a>. I am also a Machine Learning Research Engineer at
-Helvia.ai, specializing in NLP and Large Language Models
+[helvia.ai](https://helvia.ai/), specializing in NLP and Large Language Models
 
 ## Research Interests
 
-<!-- - **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning -->
-- **Natural Language Processing:** LLM optimization
-- **Machine Learning:** active learning, knoledge distillation
-- **Reinforcement Learning:** Wireless network routing optimization, decision making
+
+- **Natural Language Processing:** LLM optimization, text summarization, open-book question-answering
+- **Machine Learning:** Active learning, knolledge distillation
+- **Reinforcement Learning:** Improved NLG , wireless network routing optimization, vehicular networks and self-driving cars
 
 <!-- ## News
 
