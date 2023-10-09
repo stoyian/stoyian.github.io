@@ -25,8 +25,28 @@ main:
     authors: <strong>Ilias Stogiannidis</strong>, Stavros Vassos, Prodromos Malakasiotis, Ion Androutsopoulos
     conference_short: EMNLP
     conference: In Finding of the Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/stoyian/OCaTS
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    pdf: html_source_file\assets\files\ocats.pdf
+    # code: https://github.com/stoyian/OCaTS
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Early Accept
+    image: ./assets/img/ocats.png
+  
+  - title: "Cache me if you Can: an Online Cost-aware Teacher-Student framework to Reduce the Calls to Large Language Models"
+    authors: <strong>Ilias Stogiannidis</strong>, Stavros Vassos, Prodromos Malakasiotis, Ion Androutsopoulos
+    conference_short: EMNLP
+    conference: In Finding of the Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2023.
+    pdf: html_source_file\assets\files\ocats.pdf
+    # code: https://github.com/stoyian/OCaTS
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Early Accept
+    image: ./assets/img/ocats.png
+  
+  - title: "Cache me if you Can: an Online Cost-aware Teacher-Student framework to Reduce the Calls to Large Language Models"
+    authors: <strong>Ilias Stogiannidis</strong>, Stavros Vassos, Prodromos Malakasiotis, Ion Androutsopoulos
+    conference_short: EMNLP
+    conference: In Finding of the Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2023.
+    pdf: html_source_file\assets\files\ocats.pdf
+    # code: https://github.com/stoyian/OCaTS
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Early Accept
     image: ./assets/img/ocats.png
