@@ -12,7 +12,7 @@ Business and also an active member of the <a href="http://nlp.cs.aueb.gr/" targe
 
 
 - **Natural Language Processing:** LLM optimization, text summarization, open-book question-answering
-- **Machine Learning:** Active learning, knolledge distillation
+- **Machine Learning:** Active learning, knowledge distillation
 - **Reinforcement Learning:** Improved NLG , wireless network routing optimization, vehicular networks and self-driving cars
 
 <!-- ## News
