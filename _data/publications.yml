@@ -24,7 +24,7 @@ main:
   - title: "Cache me if you Can: an Online Cost-aware Teacher-Student framework to Reduce the Calls to Large Language Models"
     authors: Ilias Stogiannidis, Stavros Vassos, Prodromos Malakasiotis, Ion Androutsopoulos
     conference_short: EMNLP2023
-    conference: In Finding of the Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2023.
+    conference: In Findings of the Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2023.
     pdf: https://arxiv.org/abs/2310.13395
     code: https://github.com/stoyian/OCaTS
     bibtex: https://github.com/stoyian/OCaTS
