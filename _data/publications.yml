@@ -25,9 +25,9 @@ main:
     authors: Ilias Stogiannidis, Stavros Vassos, Prodromos Malakasiotis, Ion Androutsopoulos
     conference_short: EMNLP2023
     conference: In Finding of the Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2023.
-    pdf: ./assets/files/ocats.pdf
-    # code: https://github.com/stoyian/OCaTS
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    pre-print: https://arxiv.org/abs/2310.13395
+    code: https://github.com/stoyian/OCaTS
+    bibtex: https://github.com/stoyian/OCaTS
     notes: Early Accept
     image: ./assets/img/architecture_new.png
   
@@ -37,7 +37,7 @@ main:
     conference:  In Proceedings of the Fifth Workshop on Financial Technology and Natural Language Processing and the Second Multimodal AI For Financial Forecasting of the International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, Macao, China, 2023.
     pdf: https://aclanthology.org/2023.finnlp-1.7.pdf
     # code: https://github.com/stoyian/OCaTS
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://aclanthology.org/2023.finnlp-1.7/
     notes: Oral Pressentation
     image: ./assets/img/BRBANK.png
   
