@@ -25,7 +25,7 @@ main:
     authors: Ilias Stogiannidis, Stavros Vassos, Prodromos Malakasiotis, Ion Androutsopoulos
     conference_short: EMNLP2023
     conference: In Finding of the Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2023.
-    pre-print: https://arxiv.org/abs/2310.13395
+    pdf: https://arxiv.org/abs/2310.13395
     code: https://github.com/stoyian/OCaTS
     bibtex: https://github.com/stoyian/OCaTS
     notes: Early Accept
