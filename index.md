@@ -19,7 +19,7 @@ at AUEB where we conduct research on NLP and Machine Learning.
  ## News
 
 - **[Oct. 2023]** My thesis in under the final review and will be available soon in the NLP Group's [website](http://nlp.cs.aueb.gr/theses.html).
-- **[Oct. 2023]** Our paper about LLMs caching is accepted to the Findings of EMNLP 2023.
+- **[Oct. 2023]** Our paper about LLM caching is accepted to the Findings of EMNLP 2023.
 
 {% include_relative _includes/publications.md %}
 
