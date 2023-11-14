@@ -13,7 +13,7 @@ Currently, the time for me is: <span id="current-time"></span>
 <script>
   setInterval(() => {
     const now = new Date();
-    const options = { hour: '2-digit', minute: '2-digit' ,timeZone: 'America/New_York'};
+    const options = { hour: '2-digit', minute: '2-digit' ,timeZone: 'Europe/Athens'};
     document.getElementById('current-time').textContent = now.toLocaleTimeString([], options);
   }, 1000);
 </script>
