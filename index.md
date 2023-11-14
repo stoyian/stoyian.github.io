@@ -7,13 +7,17 @@ layout: homepage
 I am completing my M.Sc in Computer Science at Athens University of Economics and
 Business under the supervision of [Prof. Ion Androutsopoulos](https://www2.aueb.gr/users/ion/) and at the time being, I am a Machine Learning Research Engineer at [helvia.ai](https://helvia.ai/), specializing in NLP and Large Language Models. I am also an active member of the <a href="http://nlp.cs.aueb.gr/" target="_blank"> Natural Language Processing Group </a> at AUEB where we conduct research on NLP and Machine Learning.
 
-You're welcome to reach out to me using the emailS provided. Currently, the time for me is: <span id="current-time"></span>
+You're welcome to reach out to me using the emails provided.
+Currently, the time for me is: <span id="current-time"></span>
 
 <script>
   setInterval(() => {
-    document.getElementById('current-time').textContent = new Date().toLocaleTimeString();
+    const now = new Date();
+    const options = { hour: '2-digit', minute: '2-digit' };
+    document.getElementById('current-time').textContent = now.toLocaleTimeString([], options);
   }, 1000);
 </script>
+
 
 
 ## Research Interests
