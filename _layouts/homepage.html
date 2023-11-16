@@ -52,8 +52,11 @@
         {% if site.affiliation %}
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         {% endif %}
-        {% if site.email %}
-        <email>{{ site.email }}</email>
+        {% if site.a_email %}
+        <a href="mailto:{{ site.a_email }}">{{ site.a_email }}</a>
+        {% endif %}
+        {% if site.p_email %}
+        <a href="mailto:{{ site.p_email }}">{{ site.p_email }}</a>
         {% endif %}
 
         <br>
