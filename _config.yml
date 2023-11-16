@@ -1,8 +1,14 @@
 # Basic Information 
 title: Ilias Stogiannidis
 position: Machine Learning Research Engineer
-affiliation: helvia.ai and Athens University of Economics and Business
-email: stoyianel (at) gmail (dot) com or stoyianel (at) aueb (dot) gr
+affiliations:
+  - affiliation: Athens University of Economics and Business (AUEB)
+  - link: https://www.aueb.gr/
+  - affiliation: helvia.ai
+  - link: https://helvia.ai/
+emails:
+  - email: stoyianel@gmail.com 
+  - email: stoyianel@aueb.gr
 address: Athens, Greece
 
 # Search Engine Optimization (SEO)

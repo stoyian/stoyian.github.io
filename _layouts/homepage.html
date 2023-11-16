@@ -49,12 +49,17 @@
         <position style="font-size:1.10rem;">{{ site.position }}</position>
         <br>
         {% endif %}
-        {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
-        <br>
+        {% if page.affiliations %}
+          {% for affiliation in page.affiliations %}
+            <a href="{{ affiliation.link }}" rel="noopener">{{ affiliation.name }}</a>
+            <br>
+          {% endfor %}
         {% endif %}
-        {% if site.email %}
-        <email>{{ site.email }}</email>
+        {% if page.emails %}
+          {% for email in page.emails %}
+            <a href="mailto:{{ email.email }}">{{ email.email }}</a>
+            <br>
+          {% endfor %}
         {% endif %}
 
         <br>
