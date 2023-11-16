@@ -7,17 +7,18 @@ address: Athens, Greece
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Machine learning artificial intelligence Reinforcement Learning Natural Language Processing ML AI RL NLP
+keywords: Machine learning, artificial intelligence, Reinforcement Learning, Natural Language Processing, ML, AI, RL, NLP
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=h9Pxv-kAAAAJ&hl=el&authuser=1
-cv_link: https://drive.google.com/file/d/1tcX9R6m5hvF0yLUG3lt2cvkvAPCF7aM8/view?usp=sharing
+cv_link: https://drive.google.com/file/d/1-EFu9DdmXlBt6SIpniP26MJbU3jGdf3e/view?usp=sharing
 github_link: https://github.com/stoyian
 linkedin: https://www.linkedin.com/in/stogiannidis/
 twitter: https://x.com/stogianel
+email: stoyianel@aueb.gr
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
